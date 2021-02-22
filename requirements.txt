@@ -1,0 +1,4 @@
+pyTelegramBotAPI==3.7.6
+#telebot==0.0.4
+schedule==1.0.0
+tweepy==3.10.0
